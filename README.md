@@ -8,15 +8,6 @@
 
 ---
 
-### About Me
-
-- Currently sharpening my skills in **C** and **C++**
-- Working with **Qt** for desktop application development
-- Comfortable on **Linux** environments
-- Always curious, always building
-
----
-
 ### Tech Stack
 
 <p align="center">
