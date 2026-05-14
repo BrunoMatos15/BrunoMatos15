@@ -15,7 +15,7 @@
 - Building desktop apps with **C/C++ & Qt** and mobile apps with **Flutter**
 - Interested in systems programming, UI development and clean architecture
 - Always exploring new tools and technologies
-- Based in Brazil 🇧🇷
+- Based in Portugal 🇵🇹
 
 ---
 
